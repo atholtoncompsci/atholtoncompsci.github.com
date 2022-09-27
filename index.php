@@ -11,7 +11,7 @@
   asdfghjkl
 
   <?php
-  //include('repositories/raidertime-22/calc.php');
+  include('calc.php');
 ?>
 </body>
 </html>

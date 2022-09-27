@@ -1,5 +1,7 @@
 hidden=[".config"]
 
+
+run = "php -S 0.0.0.0:8000 -t ."
 # hosting is currently hardcoded for this language
 # [hosting]
 # route = "/"
